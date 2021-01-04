@@ -1,0 +1,1 @@
+# Matricu_Daugyba_su_Strassen
